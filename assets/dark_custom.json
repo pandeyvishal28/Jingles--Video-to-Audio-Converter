@@ -1,0 +1,74 @@
+
+{
+  "themes": [
+      {
+    "dark_custom": {
+        "type": "dark",
+        "colors": {
+            "primary": "#0080ff",
+            "secondary": "#444444",
+            "success": "#00bc8c",
+            "info": "#3498db",
+            "warning": "#f39c12",
+            "danger": "#e74c3c",
+            "light": "#ADB5BD",
+            "dark": "#303030",
+            "bg": "#222222",
+            "fg": "#ffffff",
+            "selectbg": "#555555",
+            "selectfg": "#ffffff",
+            "border": "#222222",
+            "inputfg": "#ffffff",
+            "inputbg": "#2f2f2f",
+            "active": "#1F1F1F"
+        }
+    }
+},
+    {
+      "midnight": {
+        "type": "dark",
+        "colors": {
+          "primary": "#0a21f5",
+            "secondary": "#555555",
+            "success": "#77b300",
+            "info": "#c6c6c6",
+            "warning": "#ff8800",
+            "danger": "#cc0000",
+            "light": "#adafae",
+            "dark": "#000000",
+            "bg": "#000000",
+            "fg": "#ffffff",
+            "selectbg": "#454545",
+            "selectfg": "#ffffff",
+            "border": "#060606",
+            "inputfg": "#ffffff",
+            "inputbg": "#191919",
+            "active": "#282828"
+        }
+      }
+    },
+    {
+      "nightout": {
+        "type": "dark",
+        "colors": {
+          "primary": "#164fe2",
+            "secondary": "#555555",
+            "success": "#77b300",
+            "info": "#c0c0c0",
+            "warning": "#ff8800",
+            "danger": "#cc0000",
+            "light": "#ADAFAE",
+            "dark": "#222222",
+            "bg": "#000000",
+            "fg": "#ffffff",
+            "selectbg": "#454545",
+            "selectfg": "#ffffff",
+            "border": "#060606",
+            "inputfg": "#ffffff",
+            "inputbg": "#191919",
+            "active": "#282828"
+        }
+      }
+    }
+  ]
+}
